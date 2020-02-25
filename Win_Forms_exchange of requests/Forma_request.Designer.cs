@@ -38,7 +38,7 @@ namespace Win_Forms_exchange_of_requests
             // textBox1
             // 
             this.textBox1.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox1.Location = new System.Drawing.Point(272, 40);
+            this.textBox1.Location = new System.Drawing.Point(12, 12);
             this.textBox1.Multiline = true;
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(261, 275);
@@ -46,17 +46,17 @@ namespace Win_Forms_exchange_of_requests
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(147, 205);
+            this.button2.Location = new System.Drawing.Point(57, 314);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(75, 23);
+            this.button2.Size = new System.Drawing.Size(133, 49);
             this.button2.TabIndex = 1;
-            this.button2.Text = "button2";
+            this.button2.Text = "запросить";
             this.button2.UseVisualStyleBackColor = true;
             this.button2.Click += new System.EventHandler(this.Button2_Click);
             // 
             // Form1
             // 
-            this.ClientSize = new System.Drawing.Size(588, 391);
+            this.ClientSize = new System.Drawing.Size(328, 391);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.textBox1);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
