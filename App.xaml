@@ -4,6 +4,6 @@
              xmlns:local="clr-namespace:mod_data_request"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
-         
+         // тра та та - проверка это 
     </Application.Resources>
 </Application>
